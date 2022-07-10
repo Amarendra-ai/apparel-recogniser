@@ -1,2 +1,2 @@
 # apparel-recogniser
-a neural networks model to recognise clothes
+a very basic neural networks model to recognise clothes
