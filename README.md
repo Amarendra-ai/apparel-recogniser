@@ -1,2 +1,2 @@
-# apparel-recogniser
-a neural networks model to recognise clothes
+# ***Apparel-recogniser***
+A neural networks model to recognise clothes
